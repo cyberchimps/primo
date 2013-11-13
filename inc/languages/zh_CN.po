@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Primo Pro\n"
+"Project-Id-Version: Primo Free\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-19 10:01:05 UTC\n"
-"PO-Revision-Date: 2013-10-24 13:06+0530\n"
+"POT-Creation-Date: 2013-08-19 10:09:03 UTC\n"
+"PO-Revision-Date: 2013-11-13 17:29+0530\n"
 "Last-Translator: Surya <surya@cyberchimps.com>\n"
 "Language-Team: Chinese, China\n"
 "MIME-Version: 1.0\n"
@@ -48,7 +48,7 @@ msgstr "每年档案： %s"
 #: ../../archive.php ../../footer.php ../../sidebar-left.php
 #: ../../sidebar-right.php ../../sidebar.php
 msgid "Archives"
-msgstr "存档"
+msgstr "归档"
 
 #: ../../comments.php
 msgid "One thought on &ldquo;%2$s&rdquo;"
@@ -61,7 +61,7 @@ msgstr "评论导航"
 
 #: ../../comments.php
 msgid "Older Comments"
-msgstr "较旧的评论"
+msgstr "较早的评论"
 
 #: ../../comments.php
 msgid "Newer Comments"
@@ -69,7 +69,7 @@ msgstr "较新的评论"
 
 #: ../../comments.php
 msgid "Comments are closed."
-msgstr "评论已关闭。"
+msgstr "评论被关闭。"
 
 #: ../../content.php
 msgid "Permalink to %s"
@@ -95,7 +95,7 @@ msgstr "页"
 #: ../../footer.php ../../sidebar-left.php ../../sidebar-right.php
 #: ../../sidebar.php
 msgid "Categories"
-msgstr "类型"
+msgstr "类别"
 
 #: ../../footer.php ../../sidebar-left.php ../../sidebar-right.php
 #: ../../sidebar.php
@@ -110,7 +110,7 @@ msgstr "基于 WordPress，优美的个人信息发布平台。"
 
 #: ../../functions.php
 msgid "Pingback:"
-msgstr "外链："
+msgstr "通告:"
 
 #: ../../functions.php
 msgid "(Edit)"
@@ -129,12 +129,8 @@ msgid "%1$s at %2$s"
 msgstr "在 %2$ s %1$ s"
 
 #: ../../functions.php
-msgid "Primo Pro Responsive WordPress Theme"
+msgid "Primo Professional Responsive WordPress Theme"
 msgstr "CyberChimps Pro响应式WordPress入门主题"
-
-#: ../../functions.php
-msgid "Cyberchimps Link"
-msgstr "Cyberchimps 链接"
 
 #: ../../image.php
 msgid "Published"
@@ -170,7 +166,7 @@ msgstr "引用URLs"
 
 #: ../../image.php
 msgid "Comments are closed, but you can leave a trackback: "
-msgstr "评论已关闭，但你可以留下引用"
+msgstr "评论已关闭，但你可以离开引用通告："
 
 #: ../../image.php
 msgid "Trackbacks are closed, but you can %s"

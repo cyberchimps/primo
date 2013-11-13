@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Primo Pro\n"
+"Project-Id-Version: Primo Free\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-19 10:01:05 UTC\n"
-"PO-Revision-Date: 2013-10-24 13:06+0530\n"
+"POT-Creation-Date: 2013-08-19 10:09:03 UTC\n"
+"PO-Revision-Date: 2013-11-13 17:29+0530\n"
 "Last-Translator: Surya <surya@cyberchimps.com>\n"
 "Language-Team: Hindi, India\n"
 "MIME-Version: 1.0\n"
@@ -66,11 +66,11 @@ msgstr "पुराना टिप्पणियाँ"
 
 #: ../../comments.php
 msgid "Newer Comments"
-msgstr "टिप्पणियां नए"
+msgstr "नई टिप्पणियाँ"
 
 #: ../../comments.php
 msgid "Comments are closed."
-msgstr "टिप्पणियाँ बंद हो जाती हैं।"
+msgstr "टिप्पणियाँ बंद हो जाती हैं."
 
 #: ../../content.php
 msgid "Permalink to %s"
@@ -111,7 +111,7 @@ msgstr "WordPress, राज्य के कला अर्थ निजी �
 
 #: ../../functions.php
 msgid "Pingback:"
-msgstr "Pingback"
+msgstr "Pingback:"
 
 #: ../../functions.php
 msgid "(Edit)"
@@ -130,12 +130,8 @@ msgid "%1$s at %2$s"
 msgstr "%2$ s पर %1$ s"
 
 #: ../../functions.php
-msgid "Primo Pro Responsive WordPress Theme"
+msgid "Primo Professional Responsive WordPress Theme"
 msgstr "CyberChimps प्रो उत्तरदायी WordPress स्टार्टर थीम"
-
-#: ../../functions.php
-msgid "Cyberchimps Link"
-msgstr "Cyberchimps लिंक"
 
 #: ../../image.php
 msgid "Published"
@@ -171,7 +167,7 @@ msgstr "Trackback यूआरएल"
 
 #: ../../image.php
 msgid "Comments are closed, but you can leave a trackback: "
-msgstr "टिप्पणियाँ बंद हो जाती हैं, लेकिन आप एक trackback छोड़ सकते हैं"
+msgstr "टिप्पणियाँ बंद हो जाती हैं, लेकिन तुम एक trackback छोड़ कर सकते हैं: "
 
 #: ../../image.php
 msgid "Trackbacks are closed, but you can %s"

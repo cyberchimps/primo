@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Primo Pro\n"
+"Project-Id-Version: Primo Free\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-19 10:01:05 UTC\n"
-"PO-Revision-Date: 2013-10-24 13:06+0530\n"
+"POT-Creation-Date: 2013-08-19 10:09:03 UTC\n"
+"PO-Revision-Date: 2013-11-13 17:28+0530\n"
 "Last-Translator: Surya <surya@cyberchimps.com>\n"
 "Language-Team: French, France\n"
 "MIME-Version: 1.0\n"
@@ -109,7 +109,7 @@ msgstr ""
 
 #: ../../functions.php
 msgid "Pingback:"
-msgstr "Ping"
+msgstr "Pingback :"
 
 #: ../../functions.php
 msgid "(Edit)"
@@ -128,12 +128,8 @@ msgid "%1$s at %2$s"
 msgstr "%1$ s %2$ s"
 
 #: ../../functions.php
-msgid "Primo Pro Responsive WordPress Theme"
+msgid "Primo Professional Responsive WordPress Theme"
 msgstr "CyberChimps Pro Responsive WordPress Thème Starter"
-
-#: ../../functions.php
-msgid "Cyberchimps Link"
-msgstr "Lien Cyberchimps"
 
 #: ../../image.php
 msgid "Published"
@@ -141,11 +137,11 @@ msgstr "Publié"
 
 #: ../../image.php
 msgid "size"
-msgstr "taille"
+msgstr "Taille"
 
 #: ../../image.php
 msgid "in"
-msgstr "en"
+msgstr "po"
 
 #: ../../image.php
 msgid "Previous"
@@ -153,11 +149,11 @@ msgstr "Précédent"
 
 #: ../../image.php
 msgid "Next"
-msgstr "Suivant"
+msgstr "suivant"
 
 #: ../../image.php
 msgid "Post a comment"
-msgstr "Poster un commentaire"
+msgstr "poster un commentaire"
 
 #: ../../image.php
 msgid "or leave a trackback"
@@ -169,7 +165,7 @@ msgstr "URL de trackback"
 
 #: ../../image.php
 msgid "Comments are closed, but you can leave a trackback: "
-msgstr "Les commentaires sont clos mais vous pouvez laisser un rétrolien :"
+msgstr "Les commentaires sont fermés, mais vous pouvez laisser un trackback : "
 
 #: ../../image.php
 msgid "Trackbacks are closed, but you can %s"

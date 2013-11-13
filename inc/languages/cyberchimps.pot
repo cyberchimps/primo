@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Primo Pro\n"
+"Project-Id-Version: Primo Free\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-19 10:01:05 UTC\n"
-"PO-Revision-Date: 2013-10-24 07:29:11 UTC\n"
+"POT-Creation-Date: 2013-08-19 10:09:03 UTC\n"
+"PO-Revision-Date: 2013-11-13 11:33:07 UTC\n"
 "Last-Translator: Web Translate It <support@webtranslateit.com>\n"
 "Language-Team: English, United States\n"
 "MIME-Version: 1.0\n"
@@ -154,12 +154,8 @@ msgid "%1$s at %2$s"
 msgstr "%1$s at %2$s"
 
 #: ../../functions.php
-msgid "Primo Pro Responsive WordPress Theme"
+msgid "Primo Professional Responsive WordPress Theme"
 msgstr "CyberChimps Pro Responsive WordPress Starter Theme"
-
-#: ../../functions.php
-msgid "Cyberchimps Link"
-msgstr "Cyberchimps Link"
 
 #: ../../image.php
 msgid "Published"

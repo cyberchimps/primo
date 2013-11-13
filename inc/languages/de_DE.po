@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Primo Pro\n"
+"Project-Id-Version: Primo Free\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-19 10:01:05 UTC\n"
-"PO-Revision-Date: 2013-10-24 13:06+0530\n"
+"POT-Creation-Date: 2013-08-19 10:09:03 UTC\n"
+"PO-Revision-Date: 2013-11-13 17:29+0530\n"
 "Last-Translator: Surya <surya@cyberchimps.com>\n"
 "Language-Team: German, Germany\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../../functions.php
 msgid "Pingback:"
-msgstr "Pingback (Kurzfassung):"
+msgstr "Pingback:"
 
 #: ../../functions.php
 msgid "(Edit)"
@@ -133,12 +133,8 @@ msgid "%1$s at %2$s"
 msgstr "%1$ s auf %2$ s"
 
 #: ../../functions.php
-msgid "Primo Pro Responsive WordPress Theme"
+msgid "Primo Professional Responsive WordPress Theme"
 msgstr "CyberChimps Pro reagieren Starter in WordPress Theme"
-
-#: ../../functions.php
-msgid "Cyberchimps Link"
-msgstr "Cyberchimps Link"
 
 #: ../../image.php
 msgid "Published"
@@ -154,7 +150,7 @@ msgstr "in"
 
 #: ../../image.php
 msgid "Previous"
-msgstr "zurück"
+msgstr "Zurück"
 
 #: ../../image.php
 msgid "Next"
@@ -175,7 +171,7 @@ msgstr "Trackback-URL"
 #: ../../image.php
 msgid "Comments are closed, but you can leave a trackback: "
 msgstr ""
-"Kommentare sind geschlossen, aber Sie können einen Trackback hinterlassen"
+"Kommentare sind geschlossen, aber Sie können einen Trackback hinterlassen: "
 
 #: ../../image.php
 msgid "Trackbacks are closed, but you can %s"

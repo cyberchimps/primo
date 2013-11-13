@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Primo Pro\n"
+"Project-Id-Version: Primo Free\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-19 10:01:05 UTC\n"
-"PO-Revision-Date: 2013-10-24 13:05+0530\n"
+"POT-Creation-Date: 2013-08-19 10:09:03 UTC\n"
+"PO-Revision-Date: 2013-11-13 17:28+0530\n"
 "Last-Translator: Surya <surya@cyberchimps.com>\n"
 "Language-Team: Russian, Russia\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "Упс! Эта страница не найдена."
 msgid ""
 "It looks like nothing was found at this location. Maybe try searching for it?"
 msgstr ""
-"Похоже, что ничего не было найдено в этом месте. Может быть, попробовать, "
+"Похоже, что ничего не было найдено в этом месте. Может быть, попробовать "
 "искать для него?"
 
 #: ../../archive.php
@@ -42,7 +42,7 @@ msgstr "Ежедневно Архивы: %s"
 
 #: ../../archive.php
 msgid "Monthly Archives: %s"
-msgstr "Архивы по месяцам: %s"
+msgstr "Архив за месяц: %s"
 
 #: ../../archive.php
 msgid "Yearly Archives: %s"
@@ -115,7 +115,7 @@ msgstr ""
 
 #: ../../functions.php
 msgid "Pingback:"
-msgstr "Уведомление"
+msgstr "Pingback:"
 
 #: ../../functions.php
 msgid "(Edit)"
@@ -134,12 +134,8 @@ msgid "%1$s at %2$s"
 msgstr "%1$ s на %2$ s"
 
 #: ../../functions.php
-msgid "Primo Pro Responsive WordPress Theme"
+msgid "Primo Professional Responsive WordPress Theme"
 msgstr "CyberChimps Pro реагирования WordPress Автор темы"
-
-#: ../../functions.php
-msgid "Cyberchimps Link"
-msgstr "Cyberchimps связь"
 
 #: ../../image.php
 msgid "Published"
@@ -155,7 +151,7 @@ msgstr "в"
 
 #: ../../image.php
 msgid "Previous"
-msgstr "ранее"
+msgstr "Назад"
 
 #: ../../image.php
 msgid "Next"
@@ -163,7 +159,7 @@ msgstr "след."
 
 #: ../../image.php
 msgid "Post a comment"
-msgstr "Оставить комментарий"
+msgstr "оставить комментарий"
 
 #: ../../image.php
 msgid "or leave a trackback"
@@ -175,11 +171,11 @@ msgstr "URL-АДРЕС"
 
 #: ../../image.php
 msgid "Comments are closed, but you can leave a trackback: "
-msgstr "Комментарии закрыты, но вы можете оставить Архив:"
+msgstr "Комментарии закрыты, но вы можете оставить трекбек: "
 
 #: ../../image.php
 msgid "Trackbacks are closed, but you can %s"
-msgstr "Trackbacks закрыты, но вы можете %s"
+msgstr "Обратные ссылки закрыты, но вы можете %s"
 
 #: ../../image.php
 msgid "post a comment"
@@ -195,7 +191,7 @@ msgstr "Ничего не найдено"
 
 #: ../../no-results.php
 msgid "Ready to publish your first post?"
-msgstr "Готовы опубликовать свой первый пост?"
+msgstr "Мы готовы опубликовать свой первый пост?"
 
 #: ../../no-results.php
 msgid "Get started here"

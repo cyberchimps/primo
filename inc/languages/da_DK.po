@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Primo Pro\n"
+"Project-Id-Version: Primo Free\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-19 10:01:05 UTC\n"
-"PO-Revision-Date: 2013-10-24 13:06+0530\n"
+"POT-Creation-Date: 2013-08-19 10:09:03 UTC\n"
+"PO-Revision-Date: 2013-11-13 17:29+0530\n"
 "Last-Translator: Surya <surya@cyberchimps.com>\n"
 "Language-Team: Danish, Denmark\n"
 "MIME-Version: 1.0\n"
@@ -87,7 +87,7 @@ msgstr "Sider"
 
 #: ../../content.php ../../image.php
 msgid "Edit"
-msgstr "Rediger"
+msgstr "Redig駻"
 
 #: ../../footer.php ../../sidebar-left.php ../../sidebar-right.php
 #: ../../sidebar.php
@@ -112,6 +112,7 @@ msgstr ""
 "Powered by WordPress, state-of-the-art semantisk personlige udgivelse "
 "platform."
 
+#: ../../functions.php
 msgid "Pingback:"
 msgstr "Pingback:"
 
@@ -132,12 +133,8 @@ msgid "%1$s at %2$s"
 msgstr "%1$ s på %2$ s"
 
 #: ../../functions.php
-msgid "Primo Pro Responsive WordPress Theme"
+msgid "Primo Professional Responsive WordPress Theme"
 msgstr "CyberChimps Pro responsiv WordPress Starter tema"
-
-#: ../../functions.php
-msgid "Cyberchimps Link"
-msgstr "Cyberchimps Link"
 
 #: ../../image.php
 msgid "Published"
@@ -157,7 +154,7 @@ msgstr "forrige"
 
 #: ../../image.php
 msgid "Next"
-msgstr "Næste"
+msgstr "næste"
 
 #: ../../image.php
 msgid "Post a comment"
@@ -171,8 +168,9 @@ msgstr "eller forlade en trackback"
 msgid "Trackback URL"
 msgstr "Styrekugle URL"
 
+#: ../../image.php
 msgid "Comments are closed, but you can leave a trackback: "
-msgstr "Kommentarer er lukket, men du kan forlade en styrekugle: "
+msgstr "Kommentarer er lukket, men du kan efterlade et trackback: "
 
 #: ../../image.php
 msgid "Trackbacks are closed, but you can %s"
