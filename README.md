@@ -1,4 +1,0 @@
-primofree
-=========
-
-Primo Free Theme
