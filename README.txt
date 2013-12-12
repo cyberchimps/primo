@@ -1,4 +1,4 @@
-Primo Wordpress theme
+Primo WordPress theme
 ====================================
 
 - Primo, Copyright 2013
