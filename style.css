@@ -3,7 +3,7 @@ Theme Name: Primo
 Theme URI: http://www.cyberchimps.com
 Author: CyberChimps
 Author URI: http://www.cyberchimps.com/
-Description: Primo is a fully Responsive Drag & Drop WordPress Theme that adds amazing new functionality to your WordPress website. Featuring Twitter Bootstrap, and responsive touch friendly theme options that work on any device.
+Description: Primo is a fully Responsive Drag & Drop WordPress Theme that adds amazing new functionality to your WordPress website. Featuring Twitter Bootstrap, and responsive touch friendly theme options that work on any device. "Please use the <a href="http://cyberchimps.com/forum/">official support forum</a> (http://cyberchimps.com/forum/). Thank you."
 Version: 1.0.0.0
 Tags: white, black, silver, light, two-columns, right-sidebar, fixed-width, custom-background, custom-colors, custom-menu, featured-images, post-formats, theme-options, threaded-comments, sticky-post
 License: GNU General Public License version 3
@@ -450,7 +450,7 @@ article.post, article.page, article.attachment {
 }
 
 .postformats .glyphicon {
-	color: #ddd;
+	color: #65969D;
 }
 
 blockquote {
@@ -974,21 +974,21 @@ table#wp-calendar td {
 
 /* SLIDER =====================================================*/
 
-#page_slider_section.container-full-width {
+#slider_lite_section.container-full-width {
 	background: rgba(0, 82, 94, 0.75);
 }
 
-#slider.carousel.slide {
+#slider_lite.carousel.slide {
 	margin: 40px 0;
 }
 
-#slider .carousel-control {
+#slider_lite .carousel-control {
   line-height: 30px;
 }
 
 /* WIDGET BOXES ===============================================*/
 
-#boxes_section.container-full-width {
+#boxes_lite_section.container-full-width {
 	background: rgba(0, 82, 94, 0.6);
 }
 
@@ -1029,7 +1029,7 @@ h2.box-widget-title {
 
 /* PORTFOLIO ===================================================*/
 
-#portfolio_pro_section.container-full-width {
+#portfolio_lite_section.container-full-width {
 	background: rgba(0, 82, 94, 0.2);
 }
 
