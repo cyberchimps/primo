@@ -2,5 +2,9 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.1 (02/07/14)
+
+- Initial bug fixes
+
 Version 1.0.0 (01/28/14)
--Initial release.
+- Initial release.
