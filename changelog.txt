@@ -2,6 +2,10 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.2 (02/12/14)
+
+- Updated translations
+
 Version 1.0.1 (02/07/14)
 
 - Initial bug fixes
