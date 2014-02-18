@@ -2,6 +2,9 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.3 (2-18-14)
+- Slider is made to be start sliding on page load.
+
 Version 1.0.2 (02/12/14)
 
 - Updated translations
