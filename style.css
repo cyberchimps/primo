@@ -1009,10 +1009,11 @@ h2.box-widget-title {
 }
 
 .box p {
-  color: #fff;
-  text-shadow: 1px 1px 1px #104249;
-  font-size: 1.1em;
+	color: #fff;
+	text-shadow: 1px 1px 1px #104249;
+	font-size: 1.1em;
 	line-height: 1.4em;
+	margin-top: 10px;
 }
 
 /* BOXES ======================================================*/

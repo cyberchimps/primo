@@ -222,8 +222,41 @@ function cyberchimps_typography_styles( $styles ) {
 	return $styles;
 }
 
+function cyberchimps_typography_faces( $orig ) {
+
+    $new = array(
+        '"Trocchi", Times, serif'          => 'Trocchi',
+        '"Quattrocento Sans", Times, serif' => 'Quattrocento'
+    );
+    $new = array_merge( $new, $orig );
+    return $new;
+}
+
+function cyberchimps_typography_defaults() {
+    $default = array(
+        'size'  => '14px',
+        'face'  => '"Quattrocento Sans", Times, serif',
+        'style' => 'normal',
+        'color' => '#555555'
+    );
+    return $default;
+}
+
+function cyberchimps_typography_heading_defaults() {
+    $default = array(
+        'size'  => '',
+        'face'  => '"Trocchi", Times, serif',
+        'style' => '',
+        'color' => '',
+    );
+    return $default;
+}
+
 add_filter( 'cyberchimps_typography_sizes', 'cyberchimps_typography_sizes' );
 add_filter( 'cyberchimps_typography_styles', 'cyberchimps_typography_styles' );
+add_filter( 'cyberchimps_typography_faces', 'cyberchimps_typography_faces' );
+add_filter( 'cyberchimps_typography_defaults', 'cyberchimps_typography_defaults' );
+add_filter( 'cyberchimps_typography_heading_defaults', 'cyberchimps_typography_heading_defaults' );
 
 // Default for twitter bar handle
 function cyberchimps_twitter_handle_filter() {
