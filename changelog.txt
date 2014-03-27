@@ -2,6 +2,9 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.9 (3-27-14)
+- Updated Elements Translation.
+
 Version 1.0.8 (3-21-14)
 - Fixed IE8 compatibility issue.
 
