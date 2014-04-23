@@ -175,6 +175,7 @@ header #search #searchform {
 
 #navigation_menu.container-full-width {
 	background: rgba(0, 82, 94, 0.9);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#dd08525A,endColorstr=#dd08525A);
 }
 
 #navigation {
@@ -189,6 +190,7 @@ header #search #searchform {
   padding: 0;
   border: none;
   background: transparent;
+  filter: none;
 }
 
 .main-navigation .nav > li > a {
@@ -865,6 +867,7 @@ table#wp-calendar td {
 #footer_section.container-full-width {
 	border-top: 8px solid #0a5964;
 	background: rgba(10, 88, 99, 0.8);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#bf08525A,endColorstr=#bf08525A);
 }
 
 #footer-widgets {
@@ -977,6 +980,8 @@ table#wp-calendar td {
 
 #slider_lite_section.container-full-width {
 	background: rgba(0, 82, 94, 0.75);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#bf08525A,endColorstr=#bf08525A);
+	
 }
 
 #slider_lite.carousel.slide {
@@ -991,6 +996,7 @@ table#wp-calendar td {
 
 #boxes_lite_section.container-full-width {
 	background: rgba(0, 82, 94, 0.6);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#8c08525A,endColorstr=#8c08525A);
 }
 
 .box {
@@ -1033,6 +1039,7 @@ h2.box-widget-title {
 
 #portfolio_lite_section.container-full-width {
 	background: rgba(0, 82, 94, 0.2);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#2608525A,endColorstr=#2608525A);
 }
 
 #portfolio {
