@@ -2,6 +2,9 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.22 (6-20-14)
+- Code reformatting: Changed spaces to tabs.
+
 Version 1.0.21 (6-13-14)
 - Code reformatted: Changed spaces to tabs.
 
