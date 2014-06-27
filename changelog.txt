@@ -2,6 +2,9 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.23 (6-27-14)
+- Core Translation Updated.
+
 Version 1.0.22 (6-20-14)
 - Code reformatting: Changed spaces to tabs.
 
