@@ -2,6 +2,9 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.24 (7-04-14)
+- Added option for Instagram Icon.
+
 Version 1.0.23 (6-27-14)
 - Core Translation Updated.
 
