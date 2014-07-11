@@ -2,6 +2,9 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.25 (7-11-14)
+- Replaced logo with text in footer credit link.
+
 Version 1.0.24 (7-04-14)
 - Added option for Instagram Icon.
 
