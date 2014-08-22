@@ -2,6 +2,9 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.29 (8-22-14)
+- Updated Translations.
+
 Version 1.0.28 (8-08-14)
 - Fixed conflict of footer widgets with other widgets.
 - Responsive fix for uploaded video.
