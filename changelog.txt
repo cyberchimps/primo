@@ -2,6 +2,9 @@ Primo Changelog
 
 ****************************
 
+Version 1.0.35 (16-07-15)
+- Change in theme customizer as per wordpress.org guidelines
+
 Version 1.0.34 (1-23-15)
 - Fixed conflict between slider free and pro plugin.
 - Added new plugin suggestion.
