@@ -41,3 +41,5 @@ For updated documentation, walkthroughs, and support please visit http://cyberch
 For updated docs please visit http://cyberchimps.com/guides/
 
 For the support forum please visit: http://cyberchimps.com/forum/
+
+If you are looking for more features / flexibility, check out <a href="http://cyberchimps.com/store/primo-pro-2/">Primo Pro 2</a>
