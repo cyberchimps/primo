@@ -140,6 +140,7 @@ header#cc-header h2.site-title {
 	margin-bottom: 12px;
 	text-shadow: 3px 2px 1px #d5d5d3;
 	font-size: 62px;
+	line-height:60px;
 }
 
 header#cc-header h2.site-description {
@@ -249,7 +250,6 @@ header #search #searchform {
 	-webkit-border-radius: 2;
 	-moz-border-radius: 2;
 	border-radius: 2;
-	background: rgba(100, 149, 158, 0.59);
 	color: #356c75;
 }
 
