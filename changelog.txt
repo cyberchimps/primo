@@ -2,10 +2,13 @@ Primo Changelog
 
 ****************************
 
-Version 1.0.37 (22-04-16)
+Version 1.1 (10-06-16)
+- Fixed display issue for dropdown and searchbar in sidebar.
+
+Version 1.0.37 (04-22-16)
 - Site font issue fixed
 
-Version 1.0.36 (26-11-15)
+Version 1.0.36 (11-26-15)
 - Fix few minor issues related to customization
 
 Version 1.0.35 (16-07-15)

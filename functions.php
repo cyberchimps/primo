@@ -18,6 +18,7 @@
 // Load text domain.
 function cyberchimps_text_domain() {
 	load_theme_textdomain( 'primo', get_template_directory() . '/inc/languages' );
+	add_theme_support( 'title-tag' );
 }
 add_action( 'after_setup_theme', 'cyberchimps_text_domain' );
 
