@@ -4,7 +4,8 @@ Theme URI: http://cyberchimps.com/primo-lite/
 Author: CyberChimps
 Author URI: http://www.cyberchimps.com/
 Description: Primo Lite is a fully Responsive Drag & Drop WordPress Theme that adds amazing new functionality to your WordPress website. Featuring Twitter Bootstrap, and responsive touch friendly theme options that work on any device. "Please use the <a href="http://cyberchimps.com/forum/">official support forum</a> (http://cyberchimps.com/forum/). Thank you."
-Version: 1.0.37
+Version: 1.1
+Text Domain: primo
 Tags: white, blue, green, light, two-columns, right-sidebar, fixed-layout, fluid-layout, custom-background, custom-colors, custom-menu, featured-images, post-formats, theme-options, threaded-comments, sticky-post
 License: GNU General Public License version 3
 License URI: @license  http://www.opensource.org/licenses/gpl-license.php GPL v3.0 (or later)
@@ -140,6 +141,7 @@ header#cc-header h2.site-title {
 	margin-bottom: 12px;
 	text-shadow: 3px 2px 1px #d5d5d3;
 	font-size: 62px;
+	line-height:60px;
 }
 
 header#cc-header h2.site-description {
@@ -249,7 +251,6 @@ header #search #searchform {
 	-webkit-border-radius: 2;
 	-moz-border-radius: 2;
 	border-radius: 2;
-	background: rgba(100, 149, 158, 0.59);
 	color: #356c75;
 }
 
@@ -1109,4 +1110,10 @@ a .portfolio-caption {
   header#cc-header .span5 #searchform {
     float: none;
   }
+}
+select{
+width:100%;
+}
+#widget_boxes_container .box{
+  height:auto !important;
 }
