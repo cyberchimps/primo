@@ -1,6 +1,9 @@
 Primo Changelog
 
 ****************************
+Version 1.2 (04-20-17)
+- Fixed issue with PHP 7.1 
+- Fixed issue with loading google fonts (used protocol relative link)
 
 Version 1.1 (10-06-16)
 - Fixed display issue for dropdown and searchbar in sidebar.
