@@ -306,6 +306,10 @@ function primo_customize_edit_links( $wp_customize ) {
 		'selector' => '.page-title'
 	) );
 
+	$wp_customize->selective_refresh->add_partial( 'cyberchimps_options[footer_show_toggle]', array(
+	'selector' => '#footer-widget-container'
+) );
+
 }
 add_action( 'customize_register', 'primo_customize_edit_links' );
 add_theme_support( 'customize-selective-refresh-widgets' );
