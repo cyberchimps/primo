@@ -4,7 +4,7 @@ Theme URI: http://cyberchimps.com/primo-lite/
 Author: CyberChimps
 Author URI: http://www.cyberchimps.com/
 Description: Primo Lite is a fully Responsive Drag & Drop WordPress Theme that adds amazing new functionality to your WordPress website. Featuring Twitter Bootstrap, and responsive touch friendly theme options that work on any device. Primo Lite has visible edit links in the customizer preview. For Support - <a href="https://cyberchimps.com/forum/free/primo/" target="_blank" > Support forum</a> (https://cyberchimps.com/forum/free/primo/).
-Version: 1.3
+Version: 1.4
 Text Domain: primo
 Tags: two-columns, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, post-formats, theme-options, threaded-comments, sticky-post, blog
 License: GNU General Public License version 3
@@ -46,7 +46,7 @@ a {
 
 a:hover {
 	color: #00525d;
-	text-decoration: underline; 
+	text-decoration: underline;
 }
 
 table .label {
@@ -321,7 +321,7 @@ header #search #searchform {
 
 @media (max-width: 979px) {
 
-	 .nav-collapse .nav > li > a, 
+	 .nav-collapse .nav > li > a,
 	 .nav-collapse .dropdown-menu a {
 	    font-weight: normal;
 	  }
@@ -329,47 +329,47 @@ header #search #searchform {
 	.navbar .nav-collapse .nav > li > a {
 		color: #fff;
 	}
-	
-	.nav-collapse .nav > li > a:hover, 
+
+	.nav-collapse .nav > li > a:hover,
 	.navbar .nav-collapse .dropdown-menu a:hover {
 	   border-radius: 0;
 	   color: #c75400;
 	   text-decoration: none;
 	 }
-	
+
 	.navbar .nav-collapse .dropdown-menu  {
 		margin-left: 25px;
 		border-left: 3px solid #3b8792;
 		color: #eee;
 	}
-	 
+
 	 .navbar .nav-collapse .dropdown-menu a  {
 	 	color: #eee;
 	  }
-		
+
 	.navbar .nav-collapse .dropdown-menu a:before {
 		padding-right: 5px;
 		color: #ccc;
 		content: "»";
 	}
-	
-	.navbar .nav-collapse .nav > li > a:hover, 
+
+	.navbar .nav-collapse .nav > li > a:hover,
 	.navbar .nav-collapse .dropdown-menu a:hover {
 		background: #417d86;
 		color: #ffffff;
 	}
-	
+
 	.navbar .nav-collapse .nav > li.current-menu-item > a, .navbar .nav-collapse .nav > li.current-menu-ancestor > a {
 		background: #124850;
 		color: #eee;
 	}
-	
+
 	.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle {
 		background: #124850;
 		color: #eee;
 	}
-  
- .navbar .nav-collapse .nav > li.current-menu-item > a, 
+
+ .navbar .nav-collapse .nav > li.current-menu-item > a,
  .navbar .nav-collapse .nav > li.current-menu-ancestor > a {
  		background: #083b44;
  	}
@@ -982,7 +982,7 @@ table#wp-calendar td {
 #slider_lite_section.container-full-width {
 	background: rgba(0, 82, 94, 0.75);
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#8608525A,endColorstr=#8608525A);
-	
+
 }
 
 #slider_lite.carousel.slide {
