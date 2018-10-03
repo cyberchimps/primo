@@ -1,11 +1,14 @@
 Primo Changelog
 
 ****************************
+Version 1.4 (10-03-17)
+- Fixed header already sent warning
+
 Version 1.3 (07-21-17)
 - Added visible edit links in the customizer preview
 
 Version 1.2 (04-20-17)
-- Fixed issue with PHP 7.1 
+- Fixed issue with PHP 7.1
 - Fixed issue with loading google fonts (used protocol relative link)
 
 Version 1.1 (10-06-16)
@@ -95,7 +98,7 @@ Version 1.0.15 (5-9-14)
 - Added FooBox as recommended plugin.
 
 Version 1.0.14 (5-2-14)
-- Fixed byline toggle issue. 
+- Fixed byline toggle issue.
 
 Version 1.0.13 (4-24-14)
 - Added recommendation for clef plugin.

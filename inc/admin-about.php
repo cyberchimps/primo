@@ -1,5 +1,4 @@
-	<?php
-
+<?php
 /**
  * Title: About
 *
@@ -17,47 +16,47 @@
 */
 
 // Add stylesheet and JS for upsell page.
-function cyberchimps_about_style() {
+function cyberchimps_about_style()
+{
 
-	// Set template directory uri
-	$directory_uri = get_template_directory_uri();
+    // Set template directory uri
+    $directory_uri = get_template_directory_uri();
 
-	wp_enqueue_style( 'about_style', get_template_directory_uri() . '/inc/css/about.css' );
-
+    wp_enqueue_style('about_style', get_template_directory_uri() . '/inc/css/about.css');
 }
 
 // Add upsell page to the menu.
-function cyberchimps_add_about() {
-	$page = add_theme_page(
-			'About Primo Lite',
-			'About Primo Lite',
-			'administrator',
-			'primolite-about',
-			'cyberchimps_display_about'
-	);
+function cyberchimps_add_about()
+{
+    $page = add_theme_page(
+            'About Primo Lite',
+            'About Primo Lite',
+            'administrator',
+            'primolite-about',
+            'cyberchimps_display_about'
+    );
 
-	add_action( 'admin_print_styles-' . $page, 'cyberchimps_about_style' );
+    add_action('admin_print_styles-' . $page, 'cyberchimps_about_style');
 }
 
-add_action( 'admin_menu', 'cyberchimps_add_about' );
+add_action('admin_menu', 'cyberchimps_add_about');
 
 // Define markup for the upsell page.
-function cyberchimps_display_about() {
+function cyberchimps_display_about()
+{
 
-	// Set template directory uri
-	$theme      = wp_get_theme();
-	?>
+    // Set template directory uri
+    $theme      = wp_get_theme(); ?>
 	<div class="about-container">
 
 		<div class="about-info">
 			<h1><?php echo "Primo Lite - ".$theme['Version'] ?></h1>
 			<?php
-				$directory_uri = get_template_directory_uri();
-
-			?>
+                $directory_uri = get_template_directory_uri(); ?>
 			<span><img src="<?php echo $directory_uri ?>/images/logo.png"></span>
-			<?php printf( '<p>Primo Lite is a fully Responsive Drag & Drop WordPress Theme that adds amazing new functionality to your WordPress website. Featuring Twitter Bootstrap, and responsive touch friendly theme options that work on any device.'
-			); ?>
+			<?php printf(
+                '<p>Primo Lite is a fully Responsive Drag & Drop WordPress Theme that adds amazing new functionality to your WordPress website. Featuring Twitter Bootstrap, and responsive touch friendly theme options that work on any device.'
+            ); ?>
 		</div>
 
 		<div class="features">
